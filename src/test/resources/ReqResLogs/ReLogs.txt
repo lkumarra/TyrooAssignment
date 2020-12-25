@@ -1,0 +1,13 @@
+Request method:	GET
+Request URI:	https://imdb8.p.rapidapi.com/title/find?q=game%20of%20thrones
+Proxy:			<none>
+Request params:	<none>
+Query params:	q=game of thrones
+Form params:	<none>
+Path params:	<none>
+Headers:		x-rapidapi-key=a15c00169emsh3e4b592b14a3caep13f1c8jsn26c5fad01353
+				Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
